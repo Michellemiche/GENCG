@@ -16,9 +16,10 @@ version 1
 ![[Pasted image 20261006174544.png]]
 
 Version 2
-img(
+Video can't be added
 
 Version 3
+Video can't be added
 ## Reflection
 
 at some point we can't see what the code is doing so maybe working with colors could help seeing it. Makin a spiral was a little bit challenging but fun :)
