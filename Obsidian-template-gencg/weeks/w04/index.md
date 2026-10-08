@@ -12,4 +12,4 @@ Continue working on the journal and experiments
 
 - [[weeks/w02/journal|Journal]]
 - [Test p5.js sketch](sketches/01-test/)
--test
+- test
