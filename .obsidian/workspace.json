@@ -11,10 +11,14 @@
             "id": "726b601b46577344",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "weeks/w04/journal.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "journal"
             }
           }
         ]
@@ -187,10 +191,10 @@
   },
   "active": "726b601b46577344",
   "lastOpenFiles": [
+    "weeks/w03/journal.md",
     "weeks/w04/journal.md",
     "FAF3D4EE-E245-46E5-8DA0-286D55C81E1A_1_102_o.jpeg",
     "Pasted image 20261006174544.png",
-    "weeks/w03/journal.md",
     "weeks/w04/index.md",
     "weeks/w04",
     "weeks/w03 copy/journal.md",
