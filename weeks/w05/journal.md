@@ -12,4 +12,6 @@ publish: true
 ## Notes
 
 <video src="../w05/inspo1.mp4" controls width="640"></video>
+
+
 ## Reflection
