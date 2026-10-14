@@ -19,4 +19,6 @@ Would be cool to when playing it again the colours and settings are newely gener
 
 Link: https://photogradient.com/
 
+incorporate sounds to p5js: https://p5js.org/reference/p5.sound/p5.FFT/
+
 ## Reflection
